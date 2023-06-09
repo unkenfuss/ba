@@ -1,24 +1,31 @@
 Struktur Bachelorarbeit
 
-Erarbeitung der Grundlagen NAC
-Untersuchung Analyse  und Vergleich von NAC Methoden / Technologien
-Erarbeitung Lösungsansätze / Konzepterstellung zur Optimierung der derzeitigen Lösung
-praktische Umsetzung (mindestens Pilotumgebung)
+1. Einführung
+	1.1 Motivation
+	1.2 Stand der Technik
+	#1.3 Vorgehensweise
 
-1. Grundlagen
-	1.1 802.1X
-	  1.1.1 Prinzip
-	1.2 EAP
-	1.3 weitere Transportverschlüsselungen
-	  1.1.3
-	  1.1.4
-
-2. Vergleich der Lösungen
-	2.1 ISE
-	2.2 Macmon
-	2.3 802.1X
+2. Projektbeschreibung
+	2.1 Aufgabenstellung
+	2.2 Vorgehen
 	
+3. Grundlagen
+	3.1 Network Access Control
+	3.1 802.1X
+	3.2 RADIUS
+	3.3 WPA 
+	3.3 Transportverschlüsselungen
+	  1.3.1 EAP
+	  1.3.2
 
-3. Implementierung 
+4. Mögliche Lösungen
+	4.1 ISE
+	4.2 Macmon
+	4.3 Fortinet
+	4.4 802.1X
 
-4. Fazit
+5. Vergleich der Lösungen
+
+6. Implementierung 
+
+7. Fazit
