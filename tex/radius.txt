@@ -1,0 +1,19 @@
+Der Authenticator ist 16 Oktette lang und wird abhängig von der Art des Paketes gebildet. In einem Access-Request Paket ist es eine 16 Oktett lange Nummer, welche Request Authenticator im Verfahren genannt wird. Im einem Response Paket wird der Authenticator aus einem MD5-Hash berechnet, welcher über das gesamte RAIDUS Paket gebildet wird: MD5(Code+ID+Length+RequestAuth+Attributes+Secret). D
+
+
+
+
+
+
+Es gibt insgesamt drei Unterschiedliche Arten von RAIDUS Paketen:
+Access-Request
+Access-Reject
+Access-Accept
+Access-Challenge
+
+Guten Tag Herr Merz,
+ich würde gerne eine Verschiebung des Termins am Montag um eine Woche auf den 31.08 bitten.
+Zeitlich würde es wieder 16-17 Uhr passen, wenn es nicht möglich ist, können Sie gerne einen Termin vorschlagen.
+
+mit freundlichen Grüßen
+Paul Schien 
